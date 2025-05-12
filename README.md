@@ -8,7 +8,7 @@
 
 ```bash
 # 1. Клонируйте репозиторий
-git clone https://github.com/ваш-юзернейм/ваш-репозиторий.git
+git clone https://github.com/JaloladdinRozmetov/to-do.git
 cd ваш-репозиторий
 
 # 2. Установите зависимости
