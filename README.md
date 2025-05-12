@@ -9,7 +9,7 @@
 ```bash
 # 1. Клонируйте репозиторий
 git clone https://github.com/JaloladdinRozmetov/to-do.git
-cd ваш-репозиторий
+cd to-do
 
 # 2. Установите зависимости
 composer install
